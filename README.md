@@ -1,14 +1,18 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+RatDof;Security+Researcher+%26+Pentester;Web+%7C+Network+%7C+Reverse+Engineering;Breaking+things+to+understand+them+better." alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=RatDof&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%26%20Pentester&descAlignY=55&descColor=ffffff" width="100%"/>
 </div>
 
-<p align="center">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+RatDof;Web+%7C+Network+%7C+Reverse+Engineering;Breaking+things+to+understand+them+better." alt="Typing SVG" />
+
+<p>
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/ROLE-PENETRATION%20TESTER-black?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE%20SECURITY-red?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
@@ -21,14 +25,67 @@
 > Currently exploring: web exploitation, binary analysis, and automation tooling.
 ```
 
-- 🔭 Currently working on self-hosted security & admin tooling
+- 🔭 Currently building self-hosted security & admin tooling
 - 🌱 Always leveling up in reverse engineering & network pentesting
 - 🎯 Interested in CTFs, bug bounty, and red-team style projects
 - ⚡ Fun fact: I read source code the way most people read novels
 
 ---
 
-### `0x01` Arsenal
+### `0x01` Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ [flask-remote-admin-panel](https://github.com/RatDof/flask-remote-admin-panel)**
+
+Self-hosted Flask remote admin panel — file manager, terminal, system monitor, git client, database browser, and Telegram bot control, all in one dashboard.
+
+`Python` `Flask` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+**🔑 [LicenseServer](https://github.com/RatDof/LicenseServer)**
+
+Production-ready self-hosted authentication & license management platform — backend API, admin panel, PostgreSQL, Android client, and full Docker deployment.
+
+`TypeScript` `Auth` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [GARUDA-ANALYAD](https://github.com/RatDof/GARUDA-ANALYAD)**
+
+Security analysis / scanning tool.
+
+`Security` `Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+**📱 [Zygisk-Il2CppDumper](https://github.com/RatDof/Zygisk-Il2CppDumper)**
+
+Runtime IL2CPP data dumping using Zygisk — for reverse engineering Unity-based Android apps.
+
+`C` `Android` `Reverse Engineering`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`See all repositories → `[github.com/RatDof?tab=repositories](https://github.com/RatDof?tab=repositories)
+
+</div>
+
+---
+
+### `0x02` Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -54,7 +111,7 @@
 
 ---
 
-### `0x02` GitHub Stats
+### `0x03` GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RatDof&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
@@ -66,12 +123,16 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RatDof&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatDof&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" />
 </p>
 
 ---
 
-### `0x03` Connect
+### `0x04` Connect
 
 <p align="center">
   <a href="https://instagram.com/panjulaq" target="_blank">
@@ -84,5 +145,7 @@
 `Disclaimer: For educational & authorized security testing purposes only.`
 
 <img src="https://komarev.com/ghpvc/?username=RatDof&color=00FF41&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
