@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=RatDof&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%26%20Pentester&descAlignY=55&descColor=ffffff" width="100%"/>
-</div>
+
 
 <div align="center">
 
